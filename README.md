@@ -118,7 +118,7 @@ Cloned voices and recorded speech are sensitive.
 
 ## Contributing
 
-The project is private and in planning, so there is nothing to contribute to yet.
+The repository is public so the research can be followed along, but the project is still in planning and is not open for contributions yet.
 
 ## License
 
